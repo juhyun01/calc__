@@ -7,7 +7,7 @@ setuptools.setup (
    description='thisisoss calc.py',
    author='juhyun01',
    author_email='hean2@donga.ac.kr',
-   url = "https://github.com/juhyun01",
+   url = "https://github.com/juhyun01/calc__",
    install_requires=['pytest'],
    long_description = 'thisisoss calc python module',
    long_description_content_type = 'text/markdown',
